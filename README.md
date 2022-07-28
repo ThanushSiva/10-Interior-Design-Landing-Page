@@ -1,5 +1,6 @@
 #   Interior Design Landing Page
 
+![screenshot](./screenshot/screenshot-01.png)
 **Thanush S**
 
 -   This project helps understand working with transparency and opacity.
