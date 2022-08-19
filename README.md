@@ -5,6 +5,7 @@
 
 -   This project helps understand working with transparency and opacity.
 -   Took me 2 hours to complete this project.
+-   Responsive in all devices.
 
 ___
 
